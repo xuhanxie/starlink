@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  /* overflow 当被选中的元素的content超过了它本身的高度或宽度，超过部分会被隐藏，且不给scroll bar */
+  overflow: hidden;  
+  display: block;
+  position: relative;
+  padding-bottom: 5px;
+ }
+ 
